@@ -1,3 +1,13 @@
+# NOT MAINTAINED
+
+A working Plugin for Slack and Dokuwiki is this fork
+
+https://github.com/Fab-IT-ApS/dokuwiki-rocketchat-integration
+
+
+Otherwise i never knew somebody was using it, as I am not any good in PHP Universe, if somebody feels like jumping in let m know!
+
+
 # DokuWiki Slack Notifier
 
 A DokuWiki plugin that notifies a Slack channel room of wiki edits.
